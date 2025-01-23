@@ -34,19 +34,19 @@
 
 ###
 <div align="center">
-  <table>
+  <table style="border: 2px solid purple; border-collapse: collapse; padding: 5px;">
     <tr>
-      <td>
+      <td style="border: 2px solid purple;">
         <a href="https://www.linkedin.com/in/vengateshwaran-k/" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
         </a>
       </td>
-      <td>
+      <td style="border: 2px solid purple;">
         <a href="mailto:kvengateshwaran1@gmail.com" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
         </a>
       </td>
-      <td>
+      <td style="border: 2px solid purple;">
         <a href="https://www.instagram.com/vengateshwaran_/" target="_blank">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
         </a>
