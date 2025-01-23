@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is vengateshwaran and I'm a Front-end developer and Security student, from coimbatore</h2>
-
 ###
 
 <div align="center">
