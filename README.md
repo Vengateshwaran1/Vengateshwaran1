@@ -30,6 +30,8 @@ Hello! I'm Vengateshwaran, a passionate frontend developer with a knack for crea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
 </div>
 
