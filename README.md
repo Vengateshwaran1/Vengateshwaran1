@@ -20,7 +20,7 @@ Hello! I'm Vengateshwaran, a passionate frontend developer with a knack for crea
 
 ### Technologies & Tools
 
-<div align="center">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -35,7 +35,7 @@ Hello! I'm Vengateshwaran, a passionate frontend developer with a knack for crea
 
 ### Connect with Me
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/vengateshwaran-k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
