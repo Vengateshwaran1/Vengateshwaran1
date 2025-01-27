@@ -56,4 +56,4 @@ Hello! I'm Vengateshwaran, a passionate frontend developer with a knack for crea
 <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/output/snake.svg" alt="Snake animation" />
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Visitor Count](https://komarev.com/ghpvc/?username=Vengateshwaran1)
