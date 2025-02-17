@@ -33,6 +33,7 @@ Hello! I'm Vengateshwaran, a passionate frontend developer with a knack for crea
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
 </div>
 
 ### Connect with Me
@@ -56,4 +57,3 @@ Hello! I'm Vengateshwaran, a passionate frontend developer with a knack for crea
 <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/output/snake.svg" alt="Snake animation" />
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=Vengateshwaran1)
