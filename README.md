@@ -12,7 +12,7 @@
 
 ## About Me
 
-Hello! I'm Vengateshwaran, a passionate frontend developer with a knack for creating dynamic and responsive web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+Hello! I'm Vengateshwaran, a passionate fullstack developer with a knack for creating dynamic and responsive web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
