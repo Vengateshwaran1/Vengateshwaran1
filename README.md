@@ -22,7 +22,7 @@ const Vengateshwaran = {
 
 ### Connect with Me
 
-<div align="start">
+<div align="center">
   <a href="https://www.linkedin.com/in/vengateshwaran-k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
@@ -37,7 +37,7 @@ const Vengateshwaran = {
 
 ---
 
-###⚒️
+### ⚒️
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" /> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vengateshwaran1&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180"/> <img src="https://streak-stats.demolab.com/?user=Vengateshwaran1&theme=midnight-purple&hide_border=true&border_radius=12" height="180"/> </p>
@@ -45,7 +45,7 @@ const Vengateshwaran = {
 
 ---
 
-###🐍
+### 🐍
 <p align="center"> <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/output/snake.svg" alt="Snake animation" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&multiline=true&width=600&lines=%22Be+Kind+%26+Give+Respect.%22" />
