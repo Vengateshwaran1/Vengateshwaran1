@@ -50,7 +50,7 @@ const Vengateshwaran = {
 ###🐍
 <p align="center"> <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/output/snake.svg" alt="Snake animation" /> </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&multiline=true&width=600&lines=%22Be+Kind+%26+Give+Respect." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&multiline=true&width=600&lines=%22Be+Kind+%26+Give+Respect.%22" />
 </p>
 
 
