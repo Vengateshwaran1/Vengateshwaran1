@@ -9,8 +9,6 @@
 ```ts
 const Vengateshwaran = {
   title: "Full Stack Web Developer",
-  code: ["JavaScript", "Python", "C", "TypeScript"],
-  interest: ["💻 Fullstack Developer" , "🚀 Tech Enthusiast" , "🎨 UI/UX"],
   askMeAbout: ["web dev", "tech", "design", "scaling apps"],
   tools: ["React", "Node.js", "Tailwind", "MongoDB", "Docker", "Postman", "Git"],
 }
