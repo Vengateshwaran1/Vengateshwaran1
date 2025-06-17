@@ -2,7 +2,7 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/main/banner.png" alt="Neon Panda Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/main/banner.jpg" alt="Neon Panda Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there, I'm <span style="color:#C084FC;">Vengateshwaran 👋</span></h1>
