@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/main/banner.jpg" alt="Neon Panda Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/main/banner.jpg" alt="Neon Panda Banner" width="100%" height="50%" />
 </p>
-
----
-
-## 👨‍💻 About Me
 
 ```ts
 const Vengateshwaran = {
