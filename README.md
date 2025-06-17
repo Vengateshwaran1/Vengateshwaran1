@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/main/banner.jpg" alt="Neon Panda Banner" width="100%" height="50%" />
+  <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/main/banner.jpg" alt="Neon Panda Banner" width="100%" />
 </p>
 
 ```ts
@@ -35,7 +35,10 @@ const Vengateshwaran = {
 
 ### ⚒️
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" /> </p>
-📊 GitHub Stats
+
+---
+
+### 📊 GitHub Stat
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vengateshwaran1&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180"/> <img src="https://streak-stats.demolab.com/?user=Vengateshwaran1&theme=midnight-purple&hide_border=true&border_radius=12" height="180"/> </p>
 
 
