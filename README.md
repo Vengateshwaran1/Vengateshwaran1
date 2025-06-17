@@ -19,7 +19,7 @@ const Vengateshwaran = {
 
 ### Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/vengateshwaran-k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
@@ -35,7 +35,7 @@ const Vengateshwaran = {
 ---
 
 ### ⚒️ Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" /> </p>
 
 ---
 
