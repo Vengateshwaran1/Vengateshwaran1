@@ -13,7 +13,7 @@ const Vengateshwaran = {
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZndDZrdTJ3cGZtdWZ0aDVqYmt5a3hxZGxja3hpMnhudjRudmNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDR31jsQUPqQo/giphy.gif" alt="GIF" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Fullstack+Application;React+%2B+Node+%2B+MongoDB.;Designing+Better+User+Experience+%F0%9F%8C%8C;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Fullstack+Application;Designing+Better+User+Experience+%F0%9F%8C%8C;" />
 </p>
 
 ### Connect with Me
@@ -33,7 +33,7 @@ const Vengateshwaran = {
 
 ---
 
-### ⚒️
+### ⚒️ TOOLS
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" /> </p>
 
 ---
