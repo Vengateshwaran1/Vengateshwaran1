@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm <span style="color:#C084FC;">Vengateshwaran 👋</span></h1>
-<h3 align="center">💻 Fullstack Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Lover</h3>
+<h3 align="center">💻 Fullstack Developer | 🚀 Tech Enthusiast | 🎨 UI/UX </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Fullstack+Magic.;React+%2B+Node+%2B+MongoDB.;Designing+Better+User+Journeys+%F0%9F%8C%8C;" />
@@ -34,8 +34,6 @@ const Vengateshwaran = {
   code: ["JavaScript", "Python", "C", "TypeScript"],
   askMeAbout: ["web dev", "tech", "design", "scaling apps"],
   tools: ["React", "Node.js", "Tailwind", "MongoDB", "Docker", "Postman", "Git"],
-  currentFocus: "Building fullstack magic with MERN stack and cloud tools ☁️",
-  funFact: "I love pandas 🐼 and neon themes ⚡"
 }
  ```
 ---
@@ -47,3 +45,5 @@ const Vengateshwaran = {
 🐍 Watch the Snake Eat My Contributions
 <p align="center"> <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/output/snake.svg" alt="Snake animation" /> </p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&multiline=true&width=600&lines=“Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.”;–+Cory+House" /> </p>
+
+
