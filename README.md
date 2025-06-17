@@ -17,7 +17,7 @@ const Vengateshwaran = {
 
 </p>
 
-Connect with Me
+### Connect with Me
 <div align="left">
 
 <a href="https://www.linkedin.com/in/vengateshwaran-k/" target="_blank">
@@ -40,14 +40,14 @@ Connect with Me
 
 </div>
 
-⚒️ Tools
+### ⚒️ Tools
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" />
 
 </p>
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vengateshwaran1&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180"/>
