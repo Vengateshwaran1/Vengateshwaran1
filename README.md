@@ -43,7 +43,7 @@ const Vengateshwaran = {
 ### ⚒️ Tools
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,docker,postman&theme=dark" />
 
 </p>
 
