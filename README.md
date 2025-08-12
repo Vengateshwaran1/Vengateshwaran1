@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/main/banner.jpg" alt="Neon Panda Banner" width="100%" />
-</p>
 
 ```ts
 const Vengateshwaran = {
@@ -9,7 +6,6 @@ const Vengateshwaran = {
   tools: ["React", "Node.js", "Tailwind", "MongoDB", "Docker", "Postman", "Git"],
 }
 ```
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZndDZrdTJ3cGZtdWZ0aDVqYmt5a3hxZGxja3hpMnhudjRudmNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDR31jsQUPqQo/giphy.gif" alt="GIF" />
 
 <p align="center">
 
