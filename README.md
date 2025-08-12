@@ -13,6 +13,8 @@ const Vengateshwaran = {
 
 </p>
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZndDZrdTJ3cGZtdWZ0aDVqYmt5a3hxZGxja3hpMnhudjRudmNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDR31jsQUPqQo/giphy.gif" alt="GIF" />
+
 ### Connect with Me
 <div align="left">
 
