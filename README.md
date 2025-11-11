@@ -9,7 +9,7 @@ const Vengateshwaran = {
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Fullstack+Application;Designing+Better+User+Experience+%F0%9F%8C%8C;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Fullstack+Applications;Designing+Better+User+Experience+%F0%9F%8C%8C;" />
 
 </p>
 
