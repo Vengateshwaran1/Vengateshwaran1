@@ -7,12 +7,6 @@ const Vengateshwaran = {
 }
 ```
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+Fullstack+Applications;Designing+Better+User+Experience+%F0%9F%8C%8C;" />
-
-</p>
-
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZndDZrdTJ3cGZtdWZ0aDVqYmt5a3hxZGxja3hpMnhudjRudmNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDR31jsQUPqQo/giphy.gif" alt="GIF" />
 
 ### Connect with Me
@@ -45,13 +39,16 @@ const Vengateshwaran = {
 
 </p>
 
-### 📊 GitHub Stats
 <p align="center">
+  ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Vengateshwaran1&show_icons=true&theme=gruvbox)
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vengateshwaran1&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180"/>
+<p align="center">
+  ![Dev Card](https://github.com/Vengateshwaran1.png?size=460)
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=Vengateshwaran1&theme=midnight-purple&hide_border=true&border_radius=12" height="180"/>
-
+<p align="center">
+  ![Aesthetic Card](https://github-profile-summary-cards.vercel.app/api/cards/repos/most-activity.svg?username=Vengateshwaran1&theme=monokai)
 </p>
 
 <p align="center">
