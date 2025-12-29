@@ -39,7 +39,7 @@ const Vengateshwaran = {
 
 </p>
 
-[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Vengateshwaran1?cardType=github&theme=dark&show_icons=true)](https://git.io/awesome-stats-card)
+[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Vengateshwaran1?cardType=github&theme=prussian_icons=true)](https://git.io/awesome-stats-card)
 
 <p align="center">
 
