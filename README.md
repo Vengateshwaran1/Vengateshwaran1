@@ -39,6 +39,8 @@ const Vengateshwaran = {
 
 </p>
 
+[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Vengateshwaran1?theme=dark&show_icons=true)](https://git.io/awesome-stats-card)
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Vengateshwaran1/Vengateshwaran1/output/snake.svg" alt="Snake animation" />
